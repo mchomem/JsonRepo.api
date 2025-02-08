@@ -1,0 +1,14 @@
+[
+  {
+    "Id": 1,
+    "Name": "Misael da Costa Homem",
+    "BornDate": "2025-02-07T19:07:02.019Z",
+    "Email": "misael.homem@gmail.com"
+  },
+  {
+    "Id": 2,
+    "Name": "Marcos Paulo Bastos",
+    "BornDate": "2025-02-07T19:29:53.508Z",
+    "Email": "marcos.paulo@email.com"
+  }
+]

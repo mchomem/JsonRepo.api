@@ -1,0 +1,17 @@
+[
+  {
+    "Id": 2,
+    "PersonId": 2,
+    "Value": 20249.23,
+    "Status": 1,
+    "PaymentDate": "2025-02-07T20:27:31.042Z"
+  },
+  {
+    "Id": 1,
+    "PersonId": 1,
+    "Value": 1030.97,
+    "Status": 2,
+    "PaymentDate": "2025-02-07T19:37:49.995Z",
+    "PaymentMade": "2025-02-07T20:50:22.7564344Z"
+  }
+]

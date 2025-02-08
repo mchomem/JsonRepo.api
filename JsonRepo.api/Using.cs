@@ -1,0 +1,11 @@
+﻿global using AutoMapper;
+global using JsonRepo.api.DTOs;
+global using JsonRepo.api.Interfaces;
+global using JsonRepo.api.Models;
+global using JsonRepo.api.Models.Enums;
+global using JsonRepo.api.ProfileMappings;
+global using JsonRepo.api.Repositories;
+global using JsonRepo.api.Services;
+global using Microsoft.AspNetCore.Mvc;
+global using System.Text.Json;
+global using System.Text.Json.Serialization;
